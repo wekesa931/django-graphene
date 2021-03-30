@@ -8,7 +8,7 @@ Technologies
 To install the project
 ```
 $ git clone https://github.com/wekesa931/django-graphene.git
-$ cd django-graphene
+$ cd django-graphene-todo-app
 $ pip install requirements.txt
 $ python manage.py makemigrations
 $ python manage.py migrate
